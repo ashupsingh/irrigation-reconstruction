@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Arduino built-in examples",
+    "url": "https://docs.arduino.cc/built-in-examples",
+    "retrieved": "2026-10-23",
+    "local_research_copy_sha256": "aaeab7f190ddedaa4e8f5b1295e146ca83c052e1b73c6eb44f22da942ace0020",
+    "publication_note": "Linked only; offline publisher copy retained locally, not redistributed."
+  },
+  {
+    "title": "Espressif ADC calibration",
+    "url": "https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/adc/adc_calibration.html",
+    "retrieved": "2026-10-23",
+    "local_research_copy_sha256": "e7198b3348a0e4a8ea004b5399603b4b463de1e1ee0f534b38a4018f9a1a5087",
+    "publication_note": "Linked only; offline publisher copy retained locally, not redistributed."
+  }
+]

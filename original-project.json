@@ -1,0 +1,25 @@
+{
+  "id": "irrigation",
+  "name": "Smart Irrigation System",
+  "category": "IoT / Hardware",
+  "group": "Embedded & IoT",
+  "icon": "leaf",
+  "description": "Automated irrigation system using Arduino UNO, relay module, and water pump to optimize water usage in agriculture.",
+  "detail": "Monitors soil moisture and switches a relay-controlled water pump when readings fall below a configured threshold. Uses Arduino UNO, a capacitive moisture sensor, and pump-status indicators.",
+  "stack": [
+    "Arduino UNO",
+    "C++",
+    "Capacitive Soil Moisture Sensor",
+    "5V Relay Module",
+    "12V DC Pump",
+    "Analog Sensors"
+  ],
+  "status": "Completed",
+  "source": "https://reactportfolio-eosin.vercel.app/",
+  "image": "/projects/smart_irrigation.webp",
+  "url": "",
+  "liveUrl": "",
+  "award": "",
+  "featured": false,
+  "evidence": []
+}
